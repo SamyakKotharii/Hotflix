@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ed46122.css",
+    "main.js": "/static/js/main.16d86289.js",
+    "static/media/Background3.jpg": "/static/media/Background3.c6076ed817bde1810ee8.jpg",
+    "static/media/Spinner.gif": "/static/media/Spinner.6ecc95c213be9688f93b.gif",
+    "static/media/Zetflix.png": "/static/media/Zetflix.191585fa4671670bdd5c.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3ed46122.css",
+    "static/js/main.16d86289.js"
+  ]
+}
